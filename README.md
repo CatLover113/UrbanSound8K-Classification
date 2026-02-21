@@ -1,10 +1,10 @@
-# 🔊 Urban Sound Classification using Convolutional Neural Networks
+# Urban Sound Classification using Convolutional Neural Networks
 
 > Classifying 10 categories of urban environmental sounds by transforming raw audio into Mel-Spectrograms and training CNN architectures — including a custom-built model and Transfer Learning variants of InceptionV3 — with adversarial robustness evaluation via DeepFool.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Dataset](#dataset)
